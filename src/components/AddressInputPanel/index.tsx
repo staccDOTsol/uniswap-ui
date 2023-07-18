@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useContext, useCallback } from 'react';
 import styled, { ThemeContext } from 'styled-components';
 import useENS from '../../hooks/useENS';

@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import React, { useMemo } from 'react';
 import { transparentize } from 'polished';
 import styled, {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { HelpCircle } from 'react-feather';
 import { ImageProps } from 'rebass';

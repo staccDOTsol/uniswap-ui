@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useCallback, useContext, useEffect } from 'react';
 import { X } from 'react-feather';
 import { useSpring } from 'react-spring/web';

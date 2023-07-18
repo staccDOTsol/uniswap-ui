@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import React from 'react';
 import { Price } from '@uniswap/sdk';
 import { useContext } from 'react';

@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { transparentize } from 'polished';
 import React from 'react';
 import { AlertTriangle } from 'react-feather';

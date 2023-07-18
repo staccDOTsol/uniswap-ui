@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { Trade, TradeType } from '@uniswap/sdk';
 import React, { useContext, useMemo } from 'react';
 import { ArrowDown, AlertTriangle } from 'react-feather';

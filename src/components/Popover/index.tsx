@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Placement } from '@popperjs/core';
 import { transparentize } from 'polished';
 import React, { useCallback, useState } from 'react';

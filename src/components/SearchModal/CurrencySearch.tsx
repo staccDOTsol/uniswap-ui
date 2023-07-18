@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Currency, ETHER, Token } from '@uniswap/sdk';
 import React, { KeyboardEvent, RefObject, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';

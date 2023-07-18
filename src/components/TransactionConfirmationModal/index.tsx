@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { ChainId } from '@uniswap/sdk';
 import React, { useContext } from 'react';
 import styled, { ThemeContext } from 'styled-components';

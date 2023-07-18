@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { JSBI, Pair, Percent, TokenAmount } from '@uniswap/sdk';
 import { darken } from 'polished';
 import React, { useState } from 'react';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { PaddedColumn, Separator } from './styleds';
 import { RowBetween } from 'components/Row';

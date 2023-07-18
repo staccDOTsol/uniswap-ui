@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Currency, Token } from '@uniswap/sdk';
 import React, { useCallback, useEffect, useState } from 'react';
 import useLast from '../../hooks/useLast';

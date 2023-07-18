@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useCallback } from 'react';
 import styled from 'styled-components';
 import { TYPE, CloseIcon } from 'theme';

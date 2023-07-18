@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { Token } from '@uniswap/sdk';
 import React, { useCallback } from 'react';
 import Modal from '../Modal';

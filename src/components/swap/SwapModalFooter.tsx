@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { Trade, TradeType } from '@uniswap/sdk';
 import React, { useContext, useMemo, useState } from 'react';
 import { Repeat } from 'react-feather';

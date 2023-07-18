@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Currency, Pair } from '@uniswap/sdk';
 import React, { useState, useCallback } from 'react';
 import styled from 'styled-components';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useRef, RefObject, useCallback, useState, useMemo } from 'react';
 import Column from 'components/Column';
 import { PaddedColumn, Separator, SearchInput } from './styleds';

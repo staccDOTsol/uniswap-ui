@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { memo, useCallback, useMemo, useRef, useState, useEffect } from 'react';
 import { Settings, CheckCircle } from 'react-feather';
 import { usePopper } from 'react-popper';

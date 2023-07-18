@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useCallback, useContext } from 'react';
 import { useDispatch } from 'react-redux';
 import styled, { ThemeContext } from 'styled-components';

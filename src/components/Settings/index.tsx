@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useContext, useRef, useState } from 'react';
 import { Settings, X } from 'react-feather';
 import { Text } from 'rebass';

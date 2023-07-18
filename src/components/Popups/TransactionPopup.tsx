@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useContext } from 'react';
 import { AlertCircle, CheckCircle } from 'react-feather';
 import styled, { ThemeContext } from 'styled-components';

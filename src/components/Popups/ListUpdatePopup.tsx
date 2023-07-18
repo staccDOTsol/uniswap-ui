@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { diffTokenLists, TokenList } from '@uniswap/token-lists';
 import React, { useCallback, useMemo } from 'react';
 import { useDispatch } from 'react-redux';

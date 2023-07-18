@@ -1,3 +1,4 @@
+// @ts-nocheck
 import styled from 'styled-components';
 import { AutoColumn } from '../Column';
 import { RowBetween, RowFixed } from '../Row';

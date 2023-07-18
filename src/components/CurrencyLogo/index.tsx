@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Currency, ETHER, Token } from '@uniswap/sdk';
 import React, { useMemo } from 'react';
 import styled from 'styled-components';

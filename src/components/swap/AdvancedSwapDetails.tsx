@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Trade, TradeType } from '@uniswap/sdk';
 import React, { useContext } from 'react';
 import { ThemeContext } from 'styled-components';

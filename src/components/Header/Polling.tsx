@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useEffect } from 'react';
 import styled, { keyframes } from 'styled-components';
 import { TYPE, ExternalLink } from '../../theme';

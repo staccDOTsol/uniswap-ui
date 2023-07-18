@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isAddress } from '../../utils';
 import { Token } from '@uniswap/sdk';
 

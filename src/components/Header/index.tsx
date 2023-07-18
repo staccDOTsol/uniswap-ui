@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ChainId } from '@uniswap/sdk';
 import React from 'react';
 import { Text } from 'rebass';

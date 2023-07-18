@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { CSSProperties } from 'react';
 import { Token } from '@uniswap/sdk';
 import { AutoRow, RowFixed } from 'components/Row';

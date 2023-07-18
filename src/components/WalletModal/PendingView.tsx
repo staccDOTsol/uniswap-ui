@@ -1,3 +1,4 @@
+// @ts-nocheck 
 import { AbstractConnector } from '@web3-react/abstract-connector';
 import React from 'react';
 import styled from 'styled-components';

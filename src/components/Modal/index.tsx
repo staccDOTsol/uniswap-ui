@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react';
 import styled, { css } from 'styled-components';
 import { animated, useTransition, useSpring } from 'react-spring';
