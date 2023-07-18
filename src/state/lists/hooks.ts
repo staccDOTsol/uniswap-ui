@@ -1,5 +1,38 @@
 import { toChecksumAddress } from 'web3-utils';
-import DEFAULT_TOKEN_LIST from '@uniswap/default-token-list';
+const DEFAULT_TOKEN_LIST = {
+  "name": "Uniswap Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 245022926,
+      "address": "0x91f79a606f0e75d7324F40498e6B04D38E802572",
+      "name": "SafeMoon",
+      "symbol": "SMOON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x90306D9492eB658e47A64Ef834e76c81A0242598",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 245022926,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
+
 import { ChainId, Token } from '@uniswap/sdk';
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists';
 import { useMemo } from 'react';
